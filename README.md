@@ -130,7 +130,7 @@ node filename.js
 
 ## Example:
 ```
-node bubbleSort.js
+node Q-1.js
 
 ```
 
